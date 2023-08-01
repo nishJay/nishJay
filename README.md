@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=nishjay1310)](https://github.com/nishjay1310/leetcode-stats)
 
 ## Check out the Movie Search App built using React.js, HTML, CSS
+
+![image](https://github.com/nishJay/nishJay/assets/77871395/e9c3d11a-6e68-44ea-a920-380a64537060)
+
 [MOVIE SEARCH APP](https://nishjay.github.io/MovieAPP/index.html)
