@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Kaggle Stats
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nishjay1310/competition/light)
+![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?nishjay1310)
+
 ## LeetCode Stats
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=nishjay1310)](https://github.com/nishjay1310/leetcode-stats)
 
