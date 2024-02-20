@@ -34,43 +34,4 @@ Know how :
 
 
 
-<!--
-**nishJay/NISHJAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## Kaggle Stats
-![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?nishjay1310)
-
--->
-
-## DISEASE PROBABILITY PREDICTION FROM CHEST X RAY IMAGES
-Using a MobileNet base model
-
-![image](https://github.com/nishJay/nishJay/assets/77871395/3b75c74f-52fd-45f0-b9be-82aadd53fe5d)
-
-[FULL IPYNB](https://github.com/nishJay/MINI-PROJECT/blob/main/mini-project-disease-recog%20(1).ipynb)
-
-## Handwritten Digit Classification using CNN 
-
-Achieved 99% accuracy
-
-![image](https://github.com/nishJay/nishJay/assets/77871395/f47ab67c-49cb-400b-93a8-2afd8418b1b9)
-
-[FULL IPYNB](https://github.com/nishJay/Handwritten_Digit_Classification/blob/main/implementation.ipynb)
-
-
-## Check out the Movie Search App built using React.js, HTML, CSS
-
-![image](https://github.com/nishJay/nishJay/assets/77871395/e9c3d11a-6e68-44ea-a920-380a64537060)
-
-[MOVIE SEARCH APP](https://nishjay.github.io/MovieAPP/index.html)
