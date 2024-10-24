@@ -33,22 +33,6 @@ Information Science and Engineering graduate from Ramaiah Institute of Technolog
 - Effective Communication
 - Quick Learning Ability
 
-## Featured Projects 🌟
-
-### PDF-Based Question Answering System
-- Built using LangChain, FAISS, and Mixtral-8x7B-Instruct model
-- Implemented text chunking and semantic search
-- Features a Gradio interface for real-time querying
-
-### Samsung Research Project
-- Developed an image fusion model using PyTorch
-- Trained on MFI-WHU dataset
-- Achieved SSIM scores of 0.92+ on both training and testing sets
-
-### Credit Risk Prediction
-- Implemented XGBoost model with ROC AUC scores up to 0.95
-- Created Streamlit interface for easy model interaction
-- Focus on interpretable predictions for stakeholders
 
 ## Certifications 🏆
 - AI900 - Azure AI Fundamentals
