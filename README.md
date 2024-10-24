@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rjayanthjadhav@gmail.com)
 
 ## About Me 🚀
-Information Science and Engineering graduate from Ramaiah Institute of Technology with a strong foundation in coding, machine learning, and data analysis. Currently working as a Samsung PRISM Project Intern, I'm passionate about turning data into actionable insights and developing robust, data-driven solutions.
+Information Science and Engineering graduate from Ramaiah Institute of Technology with a strong foundation in coding, machine learning, and data analysis. Have worked as a Samsung PRISM Project Intern, I'm passionate about turning data into actionable insights and developing robust, data-driven solutions.
 
 ## Technical Skills 🛠️
 
