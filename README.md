@@ -9,10 +9,10 @@ Information Science and Engineering graduate from Ramaiah Institute of Technolog
 
 ## Technical Skills 🛠️
 
-### Languages & Tools
+### Core Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Data Science & ML
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -20,9 +20,18 @@ Information Science and Engineering graduate from Ramaiah Institute of Technolog
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### AI & NLP
+![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector%20Databases-%234ea94b.svg?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-311C87?style=for-the-badge)
+
+### Soft Skills
+- Data Analysis & Statistics
+- Critical Thinking
+- Team Work Experience
+- Effective Communication
+- Quick Learning Ability
 
 ## Featured Projects 🌟
 
@@ -47,6 +56,8 @@ Information Science and Engineering graduate from Ramaiah Institute of Technolog
 
 ## Education 🎓
 - B.E. in Information Science and Engineering, Ramaiah Institute of Technology (2020-2024)
+- Sri Chaitanya Educational Institutions, Class 12 (PUC) (2018-2020)
+- Sarvodaya National Public School, Class 10 (ICSE) (2005-2018)
 
 ## Get in Touch 📫
 - Email: rjayanthjadhav@gmail.com
